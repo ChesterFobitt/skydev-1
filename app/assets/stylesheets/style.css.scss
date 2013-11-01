@@ -13,7 +13,7 @@
 * {padding: 0; margin: 0; border: none; font-weight: normal; transition: 0.7s; -moz-transition: 0.7s; -webkit-transition: 0.7s;}
 a {color: #06A6E7; text-decoration: none;}
 a:hover {color: #24a8de; text-decoration: none; border: none;}
-#toTop {background-color: rgb(51, 51, 51); position: fixed; bottom: 120px; display: none; right: 200px; width: 50px; height: 50px; background: url(../img/to-top.png) no-repeat center center; cursor: pointer;}
+#toTop {background-color: rgb(51, 51, 51); position: fixed; bottom: 120px; display: none; right: 100px; width: 50px; height: 50px; background: image-url('to-top.png') no-repeat center center; cursor: pointer;}
 
 body {width: 100%; height: 100%; background-image: image-url("bgbg3.png"); background-attachment: fixed;color: #76797b; font-family: 'OpenSansCondensedLight';}
 

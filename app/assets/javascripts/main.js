@@ -1,7 +1,7 @@
 /*Jquery function is all page*/
 
 /*---------------BACK TO TOP BUTTON SCRIPT---------------*/
-$(function() {
+$(document).ready(function() {
 	$(window).scroll(function() {
 		if(
 			$(this).scrollTop() > 200) {
@@ -16,7 +16,7 @@ $(function() {
 });
 /*end beck to top*/
 /*--------------HEADER SCROLL FIX---------------*/
-$(function() {
+$(document).ready(function() {
 	$(window).scroll(function() {
 		if(
 			$(this).scrollTop() > 72) {
